@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson15</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+</resources>
